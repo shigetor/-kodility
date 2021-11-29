@@ -1,4 +1,4 @@
-Solution
+Solution1(main)
 Two non-negative integers are called siblings if they can be
 obtained from each other by rearranging the digits of their
 decimal representations. For example, 123 and 213 are siblings.
